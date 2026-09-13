@@ -1,4 +1,4 @@
-const CACHE_NAME = 'learning-studio-shell-v1'
+const CACHE_NAME = 'learning-studio-shell-v2'
 const BASE = new URL('./', self.location).pathname
 const APP_SHELL = [BASE, `${BASE}index.html`, `${BASE}manifest.webmanifest`, `${BASE}icons/icon-192.png`, `${BASE}icons/icon-512.png`]
 
